@@ -1,2 +1,2 @@
-# ideas
-ideas
+# ideas for projects
+* 
